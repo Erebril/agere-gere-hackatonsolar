@@ -8,7 +8,7 @@
     <!--[if IE]>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <![endif]-->
-    <title>Agere-Gere Solar</title>
+    <title>CC Solar</title>
     <!-- BOOTSTRAP CORE STYLE CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FONT AWESOME STYLE CSS -->
@@ -32,7 +32,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">AGERE-GERE <small>solar</small></a>
+                <a class="navbar-brand" href="#">Compendio de Centrales <small>solares</small></a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -170,13 +170,41 @@
                       <!-- Tab panes -->
                       <div class="tab-content">
                         <div role="tabpanel" class="tab-pane active" id="datosduros1">
-                            empresa 1
+                            <h1>RayitoFeliz</h1>
+                           <div><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                           consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
+                           <div class="col-md-4"><button class="btn btn-default">Potencia Nominal</button></div>
+                           <div class="col-md-4"><button class="btn btn-default">Rendimiento</button></div>
+                           <div class="col-md-4"><button class="btn btn-default">Energía Generada</button></div>
+
                         </div>
                         <div role="tabpanel" class="tab-pane" id="datosduros2">
-                            empresa 2
+                             <h1>Solrojo</h1>
+                             <div><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                           consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
+                           <div class="col-md-4"><button class="btn btn-default">Potencia Nominal</button></div>
+                           <div class="col-md-4"><button class="btn btn-default">Rendimiento</button></div>
+                           <div class="col-md-4"><button class="btn btn-default">Energía Generada</button></div>
                         </div>
                         <div role="tabpanel" class="tab-pane" id="datosduros3">
-                            empresa 3
+                             <h1>Caregallo</h1>
+                             <div><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                           tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                           quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                           consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                           cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                           proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
+                           <div class="col-md-4"><button class="btn btn-default">Potencia Nominal</button></div>
+                           <div class="col-md-4"><button class="btn btn-default">Rendimiento</button></div>
+                           <div class="col-md-4"><button class="btn btn-default">Energía Generada</button></div>
                         </div>
                       </div>
                     </div>
